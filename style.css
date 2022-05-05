@@ -1,0 +1,239 @@
+/*header start*/
+.nav-bar{
+    background-color: unset;
+    color: white;
+}
+
+.header{
+    border-bottom: 1px solid white;
+}
+.nav-bar a{
+    color: white;
+    font-weight: bold;
+}
+
+
+#navbar_top.scrolled{
+    background-color: black;
+    transition: background-color 200ms linear;
+}
+
+#navbar_top{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+/*header end*/
+
+/*slider start*/
+.slider img{
+    height: 700px;
+}
+
+.slider h1{
+    color: white;
+    font-weight: 1000;
+    font-size: 120px;
+    text-align: center;
+}
+
+.text-left{
+    position: relative;
+    left: 0px;
+}
+/*slider end*/
+
+/*Animate Image start*/
+.explore h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 90px;
+    color: #151515;
+    font-size: 36px;
+}
+
+.explore p{
+    color: gray;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-size: 17px;
+}
+
+.forest-image{
+    height: 459px;
+    width: 360px;
+    position: absolute;
+    top: 90px;
+    left: 50px;
+}
+
+.wave-image{
+    height: 459px;
+    width: 360px;
+    position: absolute;
+    top: 140px;
+    left: 200px;
+
+}
+/*Animate Image Start*/
+
+/*Text Area Start*/
+.text-area{
+    text-align: left;
+}
+
+.text{
+    margin-left: 400px;
+    margin-right: 0px;
+    margin-top: 300px;
+    margin-bottom: 00px;
+    background-color: rgb(157, 229, 205);
+    padding-top: 200px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+
+.text q{
+    font-size: 20px;
+}
+
+.text-area iframe{
+    position: relative;
+    top: -100px;
+    right: -100px;
+}
+/*text area end*/
+
+/*our services*/
+.services a{
+    color: #151515;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.services p{
+    color: gray;
+    font-size: 17px;
+    padding-top: 15px;
+}
+/*services section end*/
+
+/*journey start*/
+.journey{
+    padding-top: 70px;
+}
+
+.journey h2{
+    font-weight: bold;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.journey p{
+    color: gray;
+    padding-top: 15px;
+    font-size: 17px;
+}
+/*Journey end*/
+
+/*blog start*/
+.blog{
+    padding-top: 50px;
+}
+
+.blog h2{
+    font-weight: bold;
+    font-size: 35px;
+    color: #151515;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+
+.blog img{
+    padding-bottom: 15px;
+}
+
+.blog b{
+    padding-bottom: 10px;
+}
+
+.blog p{
+    color: gray;
+}
+/*blog end*/
+
+/*sight header start*/
+.footer{
+    margin-top: 200px;
+    background:#1e2227;
+}
+
+.footer img{
+    position: relative;
+    transform: translateY(-80px);
+}
+
+.footer h2{
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+    padding-top: 80px;
+    padding-left: 30px;
+    text-transform: uppercase;
+}
+
+.footer h6{
+    color: rgb(157, 248, 218);
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.4444;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.footer input{
+    color: white;
+    background-color: unset;
+    border: 0px;
+    border-bottom: 1px solid white;
+    height: 1.5cm;
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 100%;
+}
+
+.footer button{
+    background-color: rgb(157, 248, 218);
+    size: 15px;
+    border-radius: 50%;
+    border: 0px;
+    position: relative;
+    right: -550px;
+    top: -27px;
+}
+
+.footer a{
+    color: white;
+}
+
+.final-logo{
+    position: relative;
+    bottom: -80px;
+    padding-left: 170px;
+}
+
+.footer span{
+    color: gray;
+    font-size: 14px;
+}
+
+.social-media{
+    padding-right: 30px;
+    color: white;
+}
+
+.social-media i{
+    padding-right: 10px;
+}
+/*sight footer end*/
